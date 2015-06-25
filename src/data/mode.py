@@ -9,7 +9,7 @@ class Mode(object):
     Class to store outputs from Mode estimation function (Vedran)
     '''
 
-    def __init__(self, params):
+    def __init__(self):
         '''
         Constructor
         '''
